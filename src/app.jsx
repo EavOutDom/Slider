@@ -5,7 +5,6 @@ import { Navigation, Autoplay, Scrollbar, A11y, Pagination } from "swiper";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import "./arrow.css";
 const App = () => {
     // const [human, setHuman] = useState(people);
     // const [value, setValue] = useState(0);
